@@ -1,0 +1,26 @@
+﻿生成启动时间为 2021/8/9 18:09:01。
+     1>项目“E:\VScode\test.c\test.c\test.c.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\test.c.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt deg.c
+         deg.c
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VScode\test.c\Debug\test.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test.c.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\VScode\test.c\Debug\test.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VScode\test.c\Debug\test.c.lib" /MACHINE:X86 Debug\test.c.exe.embed.manifest.res
+         Debug\deg.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test.c.exe.embed.manifest" /manifest Debug\test.c.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         test.c.vcxproj -> E:\VScode\test.c\Debug\test.c.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\test.c.unsuccessfulbuild”。
+         正在对“Debug\test.c.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\VScode\test.c\test.c\test.c.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55
